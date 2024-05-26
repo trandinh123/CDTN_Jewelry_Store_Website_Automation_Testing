@@ -3,9 +3,9 @@ import loginPO from '../PageObjects/locator/loginLocators'
 import accountLocator from '../PageObjects/locator/accountLocators'
 
 Given('I am on the login page', () => {
-    //cy.visit('https://hatd-test.myshopify.com/account/login');
-    //cy.xpath(loginPO.PasswordShopifyInput).clear().type(1)
-    //cy.xpath(loginPO.EnterButton).click()
+    cy.visit('https://hatd-test.myshopify.com/account/login');
+    cy.xpath(loginPO.PasswordShopifyInput).clear().type(1)
+    cy.xpath(loginPO.EnterButton).click()
     cy.visit('https://hatd-test.myshopify.com/account/login')
 })
 
