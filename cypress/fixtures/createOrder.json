@@ -1,0 +1,47 @@
+{
+    "CreditCardInfo": {
+        "cardNumber": 1,
+        "expireDate": "02/25",
+        "cardNumbersecurityCode": "111",
+        "nameOnCard": "Anh Nguyen"
+    }, 
+    "Invalid_Value": {
+        "invalidCardNumber": "123aa",
+        "invalidExpireDate": "02/23",
+        "invalidSecurityCode": "1234",
+        "letterCharacters": "AAAAAAAAAAAAAAAAAAAAAA",
+        "specialCharacters": "~!#$%^&&**()_+=",
+        "mixingSpecialAndLetterCharacters": "aaa@#$%^^&&"
+    },
+    "BillingAddress": {
+        "Country": "Vietnam",
+        "FirstName": "Dinh Ha",
+        "LastName": "Tran",
+        "Address": "Dan Phuong",
+        "City": "Hanoi",
+        "PostalCode": "HN123"
+    }, 
+    "ShippingAddress": {
+        "FirstName": "Ha",
+        "LastName": "Tran", 
+        "Address": "Dong Da", 
+        "Apartment": "VCCI Dao Duy Anh",
+        "City": "Hanoi",
+        "PostalCode": "HN123"
+    },
+
+    "OrderInfo": {
+        "OrderID": "#1032",
+        "OrderDate": "May 25, 2024",
+        "OrderPaymentStatus": "Authorized",
+        "OrderFullfillmentStatus": "Unfulfilled",
+        "OrderTotal": "237 VND"
+    },
+    "OrderInfo2": {
+        "OrderID": "#1033",
+        "OrderDate": "May 25, 2024",
+        "OrderPaymentStatus": "Authorized",
+        "OrderFullfillmentStatus": "Unfulfilled",
+        "OrderTotal": "237 VND"
+    }
+}

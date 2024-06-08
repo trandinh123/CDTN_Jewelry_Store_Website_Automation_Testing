@@ -1,0 +1,35 @@
+{
+    "NewAddressInfo": {
+        "FirstName": "Mai Anh",
+        "LastName": "Nguyen",
+        "Company": "KBTG",
+        "Address1": "Thai Ha",
+        "Address2": "Dong Da",
+        "City": "Ha Noi", 
+        "Country": "Vietnam",
+        "ZIPCode": "HN123",
+        "Phone": "0834311456"
+    },
+    "EditAddressInfo": {
+        "FirstName": "Anh Mai",
+        "LastName": "Nguyen",
+        "Company": "KBTG",
+        "Address1": "Tay Son",
+        "Address2": "Dong Da",
+        "City": "Ha Noi", 
+        "Country": "Vietnam",
+        "ZIPCode": "HN456",
+        "Phone": "0834311456"
+    },
+    "NotExistAddress": {
+        "FirstName": "A",
+        "LastName": "Nguyen Van",
+        "Company": "TLU",
+        "Address1": "Tay Son",
+        "Address2": "Dong Da",
+        "City": "Ha Noi", 
+        "Country": "Vietnam",
+        "ZIPCode": "HN456",
+        "Phone": "0123456789"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "newCustomerInfo": {
+        "FistName": "Ha",
+        "LastName": "Tran",
+        "FullName": "Ha Tran",
+        "Email": "maianh2492002+15@gmail.com", 
+        "PhoneNumber": "0567914611"
+    },
+    "addessDetailInfo": {
+        "FistName": "Anh",
+        "LastName": "Nguyen",
+        "Company": "KBTG",
+        "Address": "DongDa",
+        "Apartment": "ThaiHa",
+        "City": "Hanoi",
+        "PostalCode": "HN123",
+        "PhoneNumber": "0567914611"
+    },
+    "editCustomerInfo": {
+        "FistName": "Ha",
+        "LastName": "Tran Dinh",
+        "FullName": "Ha Tran Dinh",
+        "Email": "maianh2492002+15@gmail.com", 
+        "PhoneNumber": "0834311456"
+    }
+}

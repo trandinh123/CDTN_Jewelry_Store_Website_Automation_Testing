@@ -1,0 +1,13 @@
+{
+    "validPriceRange": {
+        "minPrice": 40,
+        "maxPrice": 80
+    },
+    "invalidPriceRange": {
+        "lessthan0": "-1",
+        "morethan80": 81,
+        "letterCharacter": "AAAAAAAAAAAAAAAAAAAAAA",
+        "specialCharacters": "~!#$%^&&**()_+=",
+        "mixingSpecialAndLetterCharacter": "aaa@#$%^^&&&"
+    }
+}
